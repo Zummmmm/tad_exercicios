@@ -4,7 +4,8 @@
 int main()
 {
     char menu;
-    //git test
+
+    printf("Git test\n");
 
     while(1)
     {
